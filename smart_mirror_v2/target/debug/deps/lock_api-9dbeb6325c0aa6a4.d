@@ -1,0 +1,10 @@
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/liblock_api-9dbeb6325c0aa6a4.rmeta: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/liblock_api-9dbeb6325c0aa6a4.rlib: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/lock_api-9dbeb6325c0aa6a4.d: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs
+
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/lib.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/mutex.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/remutex.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/lock_api-0.4.12/src/rwlock.rs:

@@ -1,0 +1,10 @@
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/libthiserror-b657e9a2f42c587a.rmeta: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs
+
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/libthiserror-b657e9a2f42c587a.rlib: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs
+
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/thiserror-b657e9a2f42c587a.d: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs
+
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/lib.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/aserror.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/display.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.11/src/var.rs:

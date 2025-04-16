@@ -1,0 +1,9 @@
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/libgoogle_calendar3-bc880d947a017202.rmeta: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/api.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/client.rs
+
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/libgoogle_calendar3-bc880d947a017202.rlib: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/api.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/client.rs
+
+/Users/ashtoncarter/Documents/CPSC_Courses/SmartMirrorV2/smart_mirror_v2/target/debug/deps/google_calendar3-bc880d947a017202.d: /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/lib.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/api.rs /Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/client.rs
+
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/lib.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/api.rs:
+/Users/ashtoncarter/.cargo/registry/src/index.crates.io-6f17d22bba15001f/google-calendar3-4.0.1+20220217/src/client.rs:
